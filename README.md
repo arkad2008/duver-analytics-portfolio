@@ -15,11 +15,12 @@ jupyter notebook
 
 | Project | Problem | Approach | Impact/Result | Stack |
 |---|---|---|---|---|
-| Megaline – Telecom Plan Analysis | Identify most profitable plans across regions | Descriptive stats, visualizations, hypothesis testing | Segmentation & plan adjustments → **up to +12% revenue potential** | Python (pandas, numpy, matplotlib, seaborn, scipy) |
-| E-commerce – A/B Testing & Growth Prioritization | Too many ideas; need to test/learn | ICE/RICE, A/B experiments, t-test/chi-square | Highest-ROI hypothesis → **+8% sales projection** | Python (pandas, numpy, scipy) |
-| Model Fitness – Churn Prediction & Segmentation | Rising churn; need early signals | Logistic Regression & Random Forest; behavioral segmentation | Retention playbook → **up to −15% churn potential** | scikit-learn, pandas, numpy, matplotlib, seaborn |
-| App Funnels – Conversion & Experimentation | Measure home→payment funnel; UI change | Event validation, funnel steps, control vs test; t/chi² | No significant lift; better instrumentation & next-test design | Python (pandas, numpy, scipy) |
-| Call Center – Wait Times & KPIs | High variability/abandonment | KPIs (avg/median/max wait), operator/queue ranking | Bottlenecks, workload redistribution, ops dashboard | Python (pandas, numpy), Excel |
-| Zuber – Taxi Demand & Peaks | Where/when to allocate drivers | Aggregations by company/neighborhood; hourly peaks | Top zones/companies; fleet reassignment recommendations | Python (pandas, matplotlib, seaborn) |
+| [Megaline – Telecom Plan Analysis](projects/megaline-telecom-plan-analysis) | Identify most profitable plans | Descriptive stats + hypo tests | Segmentation → **+12% potential** | Python (pandas, numpy, matplotlib, seaborn, scipy) |
+| [E-commerce – A/B Testing & Growth](projects/ecommerce-ab-testing-growth) | Too many ideas | ICE/RICE, A/B, t/chi² | Highest-ROI → **+8%** | Python (pandas, numpy, scipy) |
+| [Model Fitness – Churn & Segmentation](projects/model-fitness-churn-prediction) | Rising churn | LogReg & RandomForest | Retention playbook → **−15%** | scikit-learn, pandas, numpy |
+| [App Funnels – Conversion & Experimentation](projects/app-funnels-conversion-experimentation) | Home→payment | Event validation, A/B | No lift → instrumentation | Python (pandas, numpy, scipy) |
+| [Call Center – Wait Times & KPIs](projects/call-center-waittimes-kpis) | Long waits | KPIs, ranking | Bottlenecks + ops dashboard | Python, Excel |
+| [Zuber – Taxi Demand & Peaks](projects/zuber-taxi-demand-peaks) | Allocate drivers | Hour/day peaks | Top zones/companies | Python |
+
 
 > Each project README includes: **Problem · Data/ETL · Analysis · Results · Next Steps**.
