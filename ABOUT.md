@@ -6,6 +6,6 @@ I translate user & operational data into **actionable insights** that improve **
 **Stack:** Python (pandas, numpy, scipy, scikit-learn), SQL, Power BI, Excel · A/B testing · Cohorts/Retention · Funnels · Data Quality · ETL básico
 
 **Links:** 
-- LinkedIn: https://www.linkedin.com/in/duver-humberdo-arredondo-marin-214b7673
+- LinkedIn: https://www.linkedin.com/in/duver-arredondo-data/
 - GitHub: https://github.com/arkad2008
 - Portfolio (HTML/PDF): _attach or link here_
